@@ -1,10 +1,5 @@
 ---
-title: Links
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+title: 關於我
 menu:
     main: 
         weight: 4
@@ -13,21 +8,12 @@ menu:
 
 comments: false
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+## 簡介
+哈囉，我是就讀交大資工16級的曾士珍，目前是大三! 在這邊會分享一些大學修課、參加比賽或交換的心得，有需要的話可以參考看看!
+## 經歷
+- 交大資工系學會 媒體長
+- 在 Dcard 的桂花釀作文訪談中獲得500多萬的觀看數(X
+## 黑克松比賽
+- 2025 台北城市儀表板黑克松 第一名
+- 2025 梅竹黑克松 Google組 & 梅竹大賞 第一名
+- 2025 台北城市微服務通黑克松 晉級決賽
