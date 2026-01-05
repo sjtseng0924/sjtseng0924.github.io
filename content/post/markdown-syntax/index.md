@@ -1,150 +1,65 @@
 ---
-title: Markdown Syntax Guide
-date: 2023-09-07
-description: Sample article showcasing basic Markdown syntax and formatting for HTML elements.
+title: 114-1 交大資工修課心得
+date: 2026-01-06
+description: 大三上修課
 tags: 
-    - markdown
-    - css
-    - html
-    - themes
+    - 心得
 categories:
-    - themes
-    - syntax
+    - 修課
 ---
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+## 編譯器設計概論
+- 開課教授： 遊逸平
+- 心得
+  - 老師講得蠻好的，有之前線上課程時候錄影的影片可以看，但正常上課是沒有錄影的
+  - 考試沒有很考古(但考法跟題型可以參考)，期中考的題型就那幾種寫考古學會算就可以
+  - 期末的概念稍微複雜，如果想要高分的話，建議要理解透徹一點，例如 backpatching 今年就有考，感覺是高分的關鍵
+  - 總共有五次作業，從第三次開始寫 AST 之後就變得比較複雜，一次要改動很大量的檔案
+  - 作業都有詳細的測資跟錯誤比對且分數蠻容易超過100分，但作業部份最高就100不會超出去
+- 配分
+  - 作業(50%)、期中(25%)、期末(25%)
+  - 不調分
+- 成績
+  | 作業 | 期中 | 期末 | 總成績 |
+  |:--:|:--:|:--:|:--:|
+  | 100 | 75 | 87 | A+（90.5） |
 
-<!--more-->
+## 作業系統概論
+- 開課教授： 張力平
+- 心得
+  - 老師講得蠻好的，上課會錄影可以看
+  - 會建一個fb社團，有問題可以在裡面發問，有時候會有小考表單，記得要在時間內填完
+  - 考試沒有很考古，類似考觀念解釋，但每年考不太一樣，小概念蠻多偏背科
+  - 認真把考古理解寫完感覺差不多
+  - 有六次作業，不會花到很多時間，但要認真檢查，可能錯一個測資那次作業就少20分
+  - 補交作業可以打八折，但要在一周內
+- 配分
+  - 作業(36%)、小考(4%)、期中(30%)、期末(30%)
+  - 不調分
+- 成績
+  | 作業一 | 作業二 | 作業三 | 作業四 | 作業五 | 作業六 | 期中 | 期末 | 總成績 |
+  |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+  |110|100|100|85|100|90|83|85| A+（89.5） |
 
-## Headings
-
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-## Paragraph
-
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
-
-### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-### Inline Markdown within tables
-
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
-
-| A                                                        | B                                                                                                             | C                                                                                                                                    | D                                                 | E                                                          | F                                                                    |
-|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|------------------------------------------------------------|----------------------------------------------------------------------|
-| Lorem ipsum dolor sit amet, consectetur adipiscing elit. | Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex. | Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus | Proin sit amet velit nec enim imperdiet vehicula. | Ut bibendum vestibulum quam, eu egestas turpis gravida nec | Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien |
-
-## Code Blocks
-### Code block with backticks
-
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-
-### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-### Diff code block
-
-```diff
-[dependencies.bevy]
-git = "https://github.com/bevyengine/bevy"
-rev = "11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13"
-- features = ["dynamic"]
-+ features = ["jpeg", "dynamic"]
-```
-
-### One line code block
-
-```html
-<p>A paragraph</p>
-```
-
-## List Types
-
-### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-* List item
-* Another item
-* And another item
-
-### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>Delete</kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+## 機器學習概論
+- 開課教授： 林彥宇
+- 心得
+  - 老師是用英文授課，我有些沒有聽懂的觀念會搭配「台大李弘毅老師的機器學習」學，不過他們著重的點不太一樣，這堂課在更著重數學推導一點
+  - 考試沒有考的非常數學，有很大部分是觀念上的解釋，因為沒有考古題，所以我把我記得的題目補在底下，然後考卷不會附公式(但也沒有很用到，覺得高斯分布大概用到一次八，沒有可能也可以解釋，看要不要背(我是有記一下))
+    - 簡單的貝氏定理計算(每個袋子有幾個什麼顏色的什麼球，問你一些抽到的機率)
+    - Maximum likelihood 跟 Maximum a posterior 的差別跟為什麼MAP的loss會多一項
+    - 列出 Fisher’s linear discriminant 的公式跟解釋
+    - neural networks 其實可以只用一層來表達，叫你用一層的去表示一個多層的結果
+    - 解釋 adaboost, random forest 的一些概念(怎麼random的，為什麼adaboost會有用等等)
+    - kernel method 那邊 epsilon在不同值代表的意義，還有考算Lagrangian function(這現場直接算全部太複雜了直接放棄)
+  - 雖然是期末考一次考全部，但其實沒有考完所有 PPT 只考了前六個而已(總共九個)
+  - 最後 A+ 的人數大概是 21% 其實還蠻少的，期末考要好好讀，我期末從0開始認真讀大概花了4天
+  - 作業都不太難，除了最後一次有跟大家比賽 kaggle 的成績，但 train 的分數跟大家差不多就好不用特別捲排名(主要是用分數差再算成績)
+  - 期末考平均是48.46，我也不知道為什麼這麼低，寫的時候是也沒有卡成這樣QQ，但感覺就是認真讀盡量答就行
+- 配分
+  - 作業(60%)、期末(40%)
+  - 調分：X = S * 0.625 + 37.5，S 是原始成績，反正目的是讓 A+ 人數控制在25%
+- 成績
+  | 作業一 | 作業二 | 作業三 | 作業四 | 期末 | 總成績 |
+  |:--:|:--:|:--:|:--:|:--:|:--:|
+  |100|100|100|95.98|69| A+（92） |
