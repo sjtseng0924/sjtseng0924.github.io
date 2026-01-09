@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 曾士珍的部落格</title><link>https://sjtseng0924.github.io/post/</link><description>Recent content in Posts on 曾士珍的部落格</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://sjtseng0924.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>114-1 交大資工修課心得</title><link>https://sjtseng0924.github.io/p/114-1-%E4%BA%A4%E5%A4%A7%E8%B3%87%E5%B7%A5%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</link><pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate><guid>https://sjtseng0924.github.io/p/114-1-%E4%BA%A4%E5%A4%A7%E8%B3%87%E5%B7%A5%E4%BF%AE%E8%AA%B2%E5%BF%83%E5%BE%97/</guid><description>&lt;h2 id="編譯器設計概論"&gt;編譯器設計概論
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;開課教授： 遊逸平&lt;/li&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;老師講得蠻好的，有之前線上課程時候錄影的影片可以看，但正常上課是沒有錄影的&lt;/li&gt;
+&lt;li&gt;考試沒有很考古(但考法跟題型可以參考)，期中考的題型就那幾種寫考古學會算就可以&lt;/li&gt;
+&lt;li&gt;期末的概念稍微複雜，如果想要高分的話，建議要理解透徹一點，例如 backpatching 今年就有考，感覺是高分的關鍵&lt;/li&gt;
+&lt;li&gt;總共有五次作業，從第三次開始寫 AST 之後就變得比較複雜，一次要改動很大量的檔案&lt;/li&gt;
+&lt;li&gt;作業都有詳細的測資跟錯誤比對且分數蠻容易超過100分，但作業部份最高就100不會超出去&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;配分
+&lt;ul&gt;
+&lt;li&gt;作業(50%)、期中(25%)、期末(25%)&lt;/li&gt;
+&lt;li&gt;不調分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center"&gt;作業&lt;/th&gt;
+&lt;th style="text-align: center"&gt;期中&lt;/th&gt;
+&lt;th style="text-align: center"&gt;期末&lt;/th&gt;
+&lt;th style="text-align: center"&gt;總成績&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;100&lt;/td&gt;
+&lt;td style="text-align: center"&gt;75&lt;/td&gt;
+&lt;td style="text-align: center"&gt;87&lt;/td&gt;
+&lt;td style="text-align: center"&gt;A+（90.5）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="作業系統概論"&gt;作業系統概論
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;開課教授： 張力平&lt;/li&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;老師講得蠻好的，上課會錄影可以看&lt;/li&gt;
+&lt;li&gt;會建一個fb社團，有問題可以在裡面發問，有時候會有小考表單，記得要在時間內填完&lt;/li&gt;
+&lt;li&gt;考試沒有很考古，類似考觀念解釋，但每年考不太一樣，小概念蠻多偏背科&lt;/li&gt;
+&lt;li&gt;認真把考古理解寫完感覺差不多&lt;/li&gt;
+&lt;li&gt;有六次作業，不會花到很多時間，但要認真檢查，可能錯一個測資那次作業就少20分&lt;/li&gt;
+&lt;li&gt;補交作業可以打八折，但要在一周內&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;配分
+&lt;ul&gt;
+&lt;li&gt;作業(36%)、小考(4%)、期中(30%)、期末(30%)&lt;/li&gt;
+&lt;li&gt;不調分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center"&gt;作業一&lt;/th&gt;
+&lt;th style="text-align: center"&gt;作業二&lt;/th&gt;
+&lt;th style="text-align: center"&gt;作業三&lt;/th&gt;
+&lt;th style="text-align: center"&gt;作業四&lt;/th&gt;
+&lt;th style="text-align: center"&gt;作業五&lt;/th&gt;
+&lt;th style="text-align: center"&gt;作業六&lt;/th&gt;
+&lt;th style="text-align: center"&gt;期中&lt;/th&gt;
+&lt;th style="text-align: center"&gt;期末&lt;/th&gt;
+&lt;th style="text-align: center"&gt;總成績&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;110&lt;/td&gt;
+&lt;td style="text-align: center"&gt;100&lt;/td&gt;
+&lt;td style="text-align: center"&gt;100&lt;/td&gt;
+&lt;td style="text-align: center"&gt;85&lt;/td&gt;
+&lt;td style="text-align: center"&gt;100&lt;/td&gt;
+&lt;td style="text-align: center"&gt;90&lt;/td&gt;
+&lt;td style="text-align: center"&gt;83&lt;/td&gt;
+&lt;td style="text-align: center"&gt;85&lt;/td&gt;
+&lt;td style="text-align: center"&gt;A+（89.5）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="機器學習概論"&gt;機器學習概論
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;開課教授： 林彥宇&lt;/li&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;老師是用英文授課，我有些沒有聽懂的觀念會搭配「台大李弘毅老師的機器學習」學，不過他們著重的點不太一樣，這堂課在更著重數學推導一點&lt;/li&gt;
+&lt;li&gt;考試沒有考的非常數學，有很大部分是觀念上的解釋，因為沒有考古題，所以我把我記得的題目補在底下，然後考卷不會附公式(但也沒有很用到，覺得高斯分布大概用到一次八，沒有可能也可以解釋，看要不要背(我是有記一下))
+&lt;ul&gt;
+&lt;li&gt;簡單的貝氏定理計算(每個袋子有幾個什麼顏色的什麼球，問你一些抽到的機率)&lt;/li&gt;
+&lt;li&gt;Maximum likelihood 跟 Maximum a posterior 的差別跟為什麼MAP的loss會多一項&lt;/li&gt;
+&lt;li&gt;列出 Fisher’s linear discriminant 的公式跟解釋&lt;/li&gt;
+&lt;li&gt;neural networks 其實可以只用一層來表達，叫你用一層的去表示一個多層的結果&lt;/li&gt;
+&lt;li&gt;解釋 adaboost, random forest 的一些概念(怎麼random的，為什麼adaboost會有用等等)&lt;/li&gt;
+&lt;li&gt;kernel method 那邊 epsilon在不同值代表的意義，還有考算Lagrangian function(這現場直接算全部太複雜了直接放棄)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;雖然是期末考一次考全部，但其實沒有考完所有 PPT 只考了前六個而已(總共九個)&lt;/li&gt;
+&lt;li&gt;最後 A+ 的人數大概是 21% 其實還蠻少的，期末考要好好讀，我期末從0開始認真讀大概花了4天&lt;/li&gt;
+&lt;li&gt;作業都不太難，除了最後一次有跟大家比賽 kaggle 的成績，但 train 的分數跟大家差不多就好不用特別捲排名(主要是用分數差再算成績)&lt;/li&gt;
+&lt;li&gt;期末考平均是48.46，我也不知道為什麼這麼低，寫的時候是也沒有卡成這樣QQ，但感覺就是認真讀盡量答就行&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;配分
+&lt;ul&gt;
+&lt;li&gt;作業(60%)、期末(40%)&lt;/li&gt;
+&lt;li&gt;調分：X = S * 0.625 + 37.5，S 是原始成績，反正目的是讓 A+ 人數控制在25%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center"&gt;作業一&lt;/th&gt;
+&lt;th style="text-align: center"&gt;作業二&lt;/th&gt;
+&lt;th style="text-align: center"&gt;作業三&lt;/th&gt;
+&lt;th style="text-align: center"&gt;作業四&lt;/th&gt;
+&lt;th style="text-align: center"&gt;期末&lt;/th&gt;
+&lt;th style="text-align: center"&gt;總成績&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;100&lt;/td&gt;
+&lt;td style="text-align: center"&gt;100&lt;/td&gt;
+&lt;td style="text-align: center"&gt;100&lt;/td&gt;
+&lt;td style="text-align: center"&gt;95.98&lt;/td&gt;
+&lt;td style="text-align: center"&gt;69&lt;/td&gt;
+&lt;td style="text-align: center"&gt;A+（92）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="無人機自動飛航與電腦視覺概論"&gt;無人機自動飛航與電腦視覺概論
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;開課教授： 陳冠文&lt;/li&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;老師會先上課，課後就是lab，三個人一組成績是綁死的，建議可以找認識且熟悉的人一起修(但有點難抽就是了)&lt;/li&gt;
+&lt;li&gt;在發下無人機之後的lab就會寫比較久，程式碼可以參考一些github上的&lt;/li&gt;
+&lt;li&gt;建議看懂自己在寫什麼code再調整參數，一直亂丟給AI會什麼都改不好&lt;/li&gt;
+&lt;li&gt;期中期末會開放很多晚上去練習飛，但考試就是飛兩次然後排名，飛第三次的就會排在前兩次的後面&lt;/li&gt;
+&lt;li&gt;如果有很多期中期末考的話可能會很累，要對無人機很有耐心的調參數(他飛不好的變因蠻多的，還有電池超容易沒電跟壞掉也影響很大)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;配分
+&lt;ul&gt;
+&lt;li&gt;課堂作業(40%)、期中實作(25%)、期末競賽(35%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;ul&gt;
+&lt;li&gt;W(期中之後覺得一直調參數有一點花時間，且想花更多時間在專題跟準備托福上所以停修了)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="影像與視訊生成"&gt;影像與視訊生成
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;開課教授： 劉育綸&lt;/li&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;老師上課會錄影，而且講得很清楚又超級好，覺得上完學到很多東西&lt;/li&gt;
+&lt;li&gt;會需要用到GPU來跑作業，尤其是第一次作業的DDPM一次就要跑6小時，還要跑五種實驗，盡量不要壓DL寫作業&lt;/li&gt;
+&lt;li&gt;作業的難度不會到超級難，但需要先看完影片理解概念在寫，感覺比較知道在幹嘛&lt;/li&gt;
+&lt;li&gt;會需要報告一篇Paper跟Final Project(對Paper做量變、質變或復現)，兩個可以用同一篇可以省一些時間&lt;/li&gt;
+&lt;li&gt;Paper跟Final Project都是四個人一組，報完要聽其他組的問問題問的好的話才有分數，非常謝謝我的組員們都超級扛!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;配分
+&lt;ul&gt;
+&lt;li&gt;Programming Assignment(40%)、Paper Presentation(15%)、Final Project(40%)、Participation in Guest Lectures(5%)&lt;/li&gt;
+&lt;li&gt;Final Project
+&lt;ul&gt;
+&lt;li&gt;Proposal(10%)&lt;/li&gt;
+&lt;li&gt;Oral &amp;amp; Demo Presentation(15%)&lt;/li&gt;
+&lt;li&gt;Final Report (10%)&lt;/li&gt;
+&lt;li&gt;問問題(5%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center"&gt;作業一&lt;/th&gt;
+&lt;th style="text-align: center"&gt;作業二&lt;/th&gt;
+&lt;th style="text-align: center"&gt;作業三&lt;/th&gt;
+&lt;th style="text-align: center"&gt;作業四&lt;/th&gt;
+&lt;th style="text-align: center"&gt;paper presentation&lt;/th&gt;
+&lt;th style="text-align: center"&gt;final project&lt;/th&gt;
+&lt;th style="text-align: center"&gt;問問題&lt;/th&gt;
+&lt;th style="text-align: center"&gt;總成績&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;100&lt;/td&gt;
+&lt;td style="text-align: center"&gt;100&lt;/td&gt;
+&lt;td style="text-align: center"&gt;100&lt;/td&gt;
+&lt;td style="text-align: center"&gt;100&lt;/td&gt;
+&lt;td style="text-align: center"&gt;100&lt;/td&gt;
+&lt;td style="text-align: center"&gt;100&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0&lt;/td&gt;
+&lt;td style="text-align: center"&gt;A+（95）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="體育女生排球甲"&gt;體育－女生排球甲
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;開課教授： 李建毅&lt;/li&gt;
+&lt;li&gt;心得
+&lt;ul&gt;
+&lt;li&gt;老師話蠻多會講一些故事&lt;/li&gt;
+&lt;li&gt;有時候點名，時間不固定&lt;/li&gt;
+&lt;li&gt;都上一個小時就下課，然後自由打球這樣&lt;/li&gt;
+&lt;li&gt;考試是跟朋友對球，不過不用很厲害也沒關係&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;配分
+&lt;ul&gt;
+&lt;li&gt;不要翹課超過三次的話應該不會被當掉!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;成績
+&lt;ul&gt;
+&lt;li&gt;A-&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
