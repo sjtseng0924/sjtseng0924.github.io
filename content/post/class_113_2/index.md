@@ -15,9 +15,9 @@ categories:
   - 課程都會有錄影，可以寫作業的時候自己再去看影片，跟數值方法的部份內容蠻有關聯的
   - 最後的 Final Project 是用 Blender 之類的軟體做一部短影片，跟前面的作業跟上課內容就沒有很有關係，可能也沒甚麼寫程式的部份XD，但做完之後覺得蠻有趣的
   - 作業佔分很大，所以這堂課蠻甜的
-  - 附上我們最後做出來的影片: https://youtu.be/0xoQ-gXeZ48
+  - 附上我們最後做出來的 Final Project 成果: [觀看影片](https://youtu.be/0xoQ-gXeZ48)
 - 配分
-  - Assignment 1(25%)、Assignment 2(25%)Assignment 3(20%)、Final project(30%)
+  - Assignment 1(25%)、Assignment 2(25%)、Assignment 3(20%)、Final project(30%)
 - 成績
   A+
 
